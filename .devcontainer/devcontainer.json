@@ -1,0 +1,15 @@
+{
+  "image": "nvidia/cuda:12.2.0-devel-ubuntu22.04",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools-extension-pack",
+        "streetsidesoftware.code-spell-checker",
+        "GitHub.copilot",
+        "NVIDIA.nsight-vscode-edition"
+      ]
+    }
+  } /*,
+  "forwardPorts": [3000]
+  */
+}
